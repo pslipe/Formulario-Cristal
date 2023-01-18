@@ -1,0 +1,60 @@
+.cliente-primaria {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid 1.5px rgba(122, 230, 55, 0.533);
+    box-shadow: 10px 10px 30px rgba(122, 230, 55, 0.1);
+    margin: 10px 5px 0px 5px;
+    padding: 2px;
+}
+
+.cabecalho {
+    display: flex;;
+    margin: 15px 8px 5px 7px;
+    font-weight: bold;
+    color: rgba(122, 230, 55, 0.904);
+    font-size: 24px;
+}
+
+.cliente-usina {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid 1.5px rgba(122, 230, 55, 0.533);
+    box-shadow: 10px 10px 30px rgba(122, 230, 55, 0.1);
+    margin: 10px 5px 0px 5px;
+    padding: 2px;
+}
+.cliente-padrao {
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    box-shadow: 10px 10px 30px rgba(122, 230, 55, 0.1);
+    margin: 10px 5px 0px 5px;
+    padding: 2px;
+}
+
+.cabecalho-1 {
+    display: flex;
+    margin: 15px 8px 5px 7px;
+    font-weight: bold;
+    color: rgb(57, 118, 19);
+    font-size: 24px;
+}
+
+/*.botao {
+    background-color: #807E26;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 22px;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    margin: 25px 0;
+}
+
+.botao:hover {
+    color: #D1D1D1;
+}*/
+
+
+
